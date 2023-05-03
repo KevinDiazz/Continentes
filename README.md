@@ -1,7 +1,7 @@
 Sitio web creado a partir de la informacion obtenida de una API.
--Manejo de ASYNC/AWAIT , ARRAYS , BUCLES FOR
--CSS con flex , mediaqueries
--Manipulacion de DOM
+-Manejo de ASYNC/AWAIT , ARRAYS , BUCLES FOR<br>
+-CSS con flex , mediaqueries<br>
+-Manipulacion de DOM<br>
 <br>
 <br>
 <br>
