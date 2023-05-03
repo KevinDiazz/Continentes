@@ -2,7 +2,7 @@ Sitio web creado a partir de la informacion obtenida de una API.
 <br>
 Practicas utilizadas:<br>
 -Manejo de ASYNC/AWAIT , ARRAYS , BUCLES FOR<br>
--CSS con flex , mediaqueries<br>
+-CSS con flexbox , mediaqueries...<br>
 -Manipulacion de DOM<br>
 <br>
 <br>
