@@ -7,4 +7,4 @@
 <br>
 <br>
 <br>
-![SitioWeb](https://github.com/KevinDiazz/Continentes/blob/main/Captura%20de%20pantalla%202023-05-03%20222145.png)
+![SitioWeb](https://github.com/KevinDiazz/Continentes/blob/main/Captura%20de%20pantalla%202023-05-03%20222145.png) 
